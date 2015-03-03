@@ -10,7 +10,7 @@ php-memcache  - http://php.net/manual/en/book.memcache.php
 php-memcached - http://php.net/manual/en/book.memcached.php
 
 USAGE
-=====
+-----
 Set the global config option:   $config['session_storage'] = 'memcached';
 
 To configure memcache server(s) copy the config.inc.php-dist to config.inc.php and edit the config file.
